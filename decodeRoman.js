@@ -1,5 +1,5 @@
 function decodeRomanNumbers(roman) {
-  let romanMap = {
+  const romanMap = {
     I: 1,
     V: 5,
     X: 10,

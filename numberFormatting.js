@@ -1,3 +1,1 @@
-var numberFormat = (number) => {
-  return number.toLocaleString();
-};
+const numberFormat = (number) => number.toLocaleString();
