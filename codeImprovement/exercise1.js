@@ -1,6 +1,7 @@
 function calculateAverage(numbers) {
-  let sum = numbers.reduce((accumulator, currentValue) => {
-    return accumulator + currentValue;
-  }, 0);
-  return sum / numbers.length;
+  return (
+    numbers.reduce((accumulator, currentValue) => {
+      return accumulator + currentValue;
+    }, 0) / numbers.length
+  );
 }
