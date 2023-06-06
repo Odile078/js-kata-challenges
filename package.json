@@ -1,0 +1,23 @@
+{
+  "name": "code-kata-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createPhoneNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odile078/js-kata-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odile078/js-kata-challenges/issues"
+  },
+  "homepage": "https://github.com/Odile078/js-kata-challenges#readme",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-plugin-unicorn": "^47.0.0"
+  }
+}
