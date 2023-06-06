@@ -1,5 +1,5 @@
 function calculateMatrixSum(matrix) {
   return matrix
-    .flat(matrix.length)
+    .flat()
     .reduce((total, nextValue) => total + nextValue, 0);
 }
